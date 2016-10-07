@@ -1,2 +1,1 @@
-# github.dart-test-repo
-readme
+This is a repository for integration tests.
